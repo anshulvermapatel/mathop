@@ -1,3 +1,3 @@
-module github.com/anshulvermapatel/mathop.git
+module github.com/anshulvermapatel/mathop
 
 go 1.15
